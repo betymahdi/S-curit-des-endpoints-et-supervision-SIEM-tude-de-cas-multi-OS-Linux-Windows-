@@ -502,4 +502,4 @@ Ce projet a été réalisé dans un cadre académique à l'ENSET Mohammedia.
 
 ---
 
-*Pour toute question ou suggestion, n'hésitez pas à contribuer ou ma contacter.*
+*Pour toute question ou suggestion, n'hésitez pas à contribuer ou me contacter.*
